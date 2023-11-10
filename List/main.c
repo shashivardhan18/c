@@ -1,6 +1,6 @@
 /*
- * @author: jelathro
- * @date: 10/24/13
+ * @author: shashi
+ * @date: 10/11/23
  * 
  * Example program using the 
  * generic list data structure 
